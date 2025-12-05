@@ -5,8 +5,8 @@ import Navigation from "@/components/Navigation";
 import Providers from "@/components/Providers";
 
 export const metadata: Metadata = {
-  title: "HotBot - AI-Powered Flirting Coach by Velkos",
-  description: "HotBot by Velkos: Learn to flirt naturally with AI-powered conversation coaching that feels 100% human. No cringe, no robots.",
+  title: "HotBot – AI-Powered Communication Coach by Velkos",
+  description: "A smarter way to improve your communication. HotBot gives you natural, human-like AI coaching to help you express yourself effortlessly.",
 };
 
 export default function RootLayout({
